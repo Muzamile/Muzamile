@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DataScience ...
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me memonmuzamil175@gmaol.com
+- 📫 How to reach me memonmuzamil175@gmail.com
 
 <!---
 Muzamile/Muzamile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
